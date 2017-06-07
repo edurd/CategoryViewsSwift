@@ -1,0 +1,6 @@
+framework module ENMBadgedBarButtonItem {
+  umbrella header "ENMBadgedBarButtonItem-umbrella.h"
+
+  export *
+  module * { export * }
+}

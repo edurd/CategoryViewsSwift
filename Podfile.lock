@@ -1,0 +1,15 @@
+PODS:
+  - ENMBadgedBarButtonItem (2.1.2)
+  - Kingfisher (3.6.2)
+
+DEPENDENCIES:
+  - ENMBadgedBarButtonItem
+  - Kingfisher (~> 3.0)
+
+SPEC CHECKSUMS:
+  ENMBadgedBarButtonItem: e5ace574862f6519734be1b7652f80dcad73b961
+  Kingfisher: 2c94e72c6830622c71d06adf4ea024c37d316830
+
+PODFILE CHECKSUM: a9622ca18c4671e0ae9842fc8371dc4d25c33a68
+
+COCOAPODS: 1.2.1
